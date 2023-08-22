@@ -9,6 +9,7 @@ li{
     padding: 30px;
     border-radius: 10px;
     /* align-items: center; */
+    background-color: rgb(255, 255, 255);
 } 
 .player_two{
     background-color: rgb(255, 255, 255);
@@ -22,7 +23,7 @@ div{
     
 }
 .dialog{
-    background-color: white;
+    background-color: rgb(255, 255, 255) ;
     border: 1px solid black;
     border-radius: 12px;
     text-align: center;
